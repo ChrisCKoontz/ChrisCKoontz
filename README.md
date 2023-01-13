@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris C Koontz @cckwriter
+- 👋 Hi, I’m Chris C Koontz @chrisckoontz
 - 👀 I’m interested in making apps to create music
 - 🌱 I’m currently learning how to make websites into apps
 - 💞️ I’m looking to collaborate on music creation
